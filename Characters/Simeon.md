@@ -1,4 +1,4 @@
-Father: [[Juda]] (Luke 3)
+Father: [[Juda - Joseph's Son]] (Luke 3)
 Mother: 
 
 Children:

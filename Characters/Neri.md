@@ -1,4 +1,4 @@
-Father: [[Melchi]] (Luke 3)
+Father: [[Melchi - Addi's Son]] (Luke 3)
 Mother: 
 
 Children:

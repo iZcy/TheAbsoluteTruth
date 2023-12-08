@@ -3,6 +3,6 @@ Mother:
 
 Children:
 1) Boys
-	[[Cainan - 2nd Predecessor]] (Luke 3)
+	[[Cainan - Arphaxad's Son]] (Luke 3)
 2) Girls
 	

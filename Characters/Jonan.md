@@ -1,4 +1,4 @@
-Father: [[Eliakim]] (Luke 3)
+Father: [[Eliakim - Melea's Son]] (Luke 3)
 Mother: 
 
 Children:

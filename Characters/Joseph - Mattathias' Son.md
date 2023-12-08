@@ -1,9 +1,9 @@
-Father: [[Mat]] (Luke 3)
+Father: [[Mattathias - Amos' Son]] (Luke 3)
 Mother: 
 
 Children:
 Spouse : 
 1) Boys
-	[[Esli]] (Luke 3)
+	[[Janna]] (Luke 3)
 2) Girls
 	

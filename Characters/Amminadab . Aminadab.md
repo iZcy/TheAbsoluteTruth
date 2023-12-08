@@ -1,4 +1,6 @@
-Father: [[Ram . Aram]] (Matthew 1) (Luke 3)
+Father:
+[[Ram . Aram]] (Matthew 1) (Luke 3)
+[[Admin]] (Luke 3) - NET
 Mother: 
 
 Children:

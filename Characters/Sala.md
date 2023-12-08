@@ -1,4 +1,4 @@
-Father: [[Cainan - 2nd Predecessor]] (Luke 3)
+Father: [[Cainan - Arphaxad's Son]] (Luke 3)
 Mother: 
 
 Children:

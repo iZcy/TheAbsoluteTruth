@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Melchi]] (Luke 3)
+	[[Melchi - Addi's Son]] (Luke 3)
 2) Girls
 	

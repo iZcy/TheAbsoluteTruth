@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Eliakim]] (Matthew 1)
+	[[Eliakim - Abihud's Son]] (Matthew 1)
 2) Girls
 	

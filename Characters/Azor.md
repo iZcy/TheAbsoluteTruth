@@ -1,4 +1,4 @@
-Father: [[Eliakim]] (Matthew 1)
+Father: [[Eliakim - Abihud's Son]] (Matthew 1)
 Mother: 
 
 Children:

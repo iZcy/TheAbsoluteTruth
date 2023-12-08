@@ -1,4 +1,4 @@
-Father: [[Cainan - 1st Predecessor]] (Luke 3)
+Father: [[Cainan - Enos' Son]] (Luke 3)
 Mother: 
 
 Children:

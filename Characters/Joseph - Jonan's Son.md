@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Juda]] (Luke 3)
+	[[Juda - Joseph's Son]] (Luke 3)
 2) Girls
 	
