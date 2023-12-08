@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28be0330b8e37c67",
+            "id": "df2d00103a16e4e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01d8ecaa23ffa1b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Jesus Christ . The Messiah.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c240466fa75daca5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Jesus Christ . The Messiah.md",
+                "file": "Characters/Jotham.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jesus Christ . The Messiah.md",
+                "file": "Characters/Jotham.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jesus Christ . The Messiah.md",
+                "file": "Characters/Jotham.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jesus Christ . The Messiah.md"
+                "file": "Characters/Jotham.md"
               }
             }
           }
@@ -174,25 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c240466fa75daca5",
+  "active": "df2d00103a16e4e3",
   "lastOpenFiles": [
-    "Characters/Isaac . Ishak . Ishaq.md",
-    "Characters/Abraham . Ibrahim.md",
-    "Characters/Jesus Christ . The Messiah.md",
-    "Untitled.md",
-    "Targets.md",
-    "README.md",
+    "Characters/Uzziah.md",
+    "Characters/Jotham.md",
+    "Characters/Jehoram.md",
+    "Characters/Jehoshaphat.md",
+    "Characters/Asa.md",
+    "Characters/Abijah.md",
+    "Characters/Rehoboam.md",
+    "Characters/Solomon . Salomo.md",
+    "Characters/David . Daud.md",
+    "Characters/Joseph.md",
+    "Characters/Jacob.md",
+    "Characters/Matthan.md",
+    "Characters/Eleazar.md",
+    "Characters/Elihud.md",
+    "Characters/Akim.md",
+    "Characters/Zadok.md",
+    "Characters/Azor.md",
+    "Characters/Eliakim.md",
+    "Characters/Abihud.md",
+    "Characters/Zerubbabel.md",
+    "Characters/Shealtiel.md",
+    "Characters/Jeconiah.md",
+    "Characters/Josiah.md",
+    "Characters/Amon.md",
+    "Characters/Manasseh.md",
+    "Characters/Hezekiah.md",
     "Diagrams/Jesus' Genealogy.canvas",
-    "Updates/2023-12-08.md",
-    "Diagrams/Untitled.md",
     "Diagrams",
     "Updates",
     "Characters",
-    "Books/Exodus.md",
-    "Books/Genesis.md",
-    "Books/Books.md",
     "Books/Untitled.canvas",
-    "Books",
-    "2023-10-20.md"
+    "Books"
   ]
 }

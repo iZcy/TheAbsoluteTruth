@@ -1,7 +1,7 @@
 {
   "commitMessage": "{{hostname}} {{date}} {{numFiles}} {{files}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 30,
   "autoPushInterval": 60,
   "autoPullInterval": 60,
   "autoPullOnBoot": true,
