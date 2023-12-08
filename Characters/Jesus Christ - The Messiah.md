@@ -1,3 +1,4 @@
+Divinely Father : [[YHWH . GOD]]
 Father (Non-biological): [[Joseph - Mary's Husband]] (Matthew 1)
 Mother: [[Mary]] (Matthew 1)
 

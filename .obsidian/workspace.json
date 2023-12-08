@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neri.md",
+                "file": "Characters/Joseph - Mattathias' Son.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Neri.md",
+                "file": "Characters/Joseph - Mattathias' Son.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Neri.md",
+                "file": "Characters/Joseph - Mattathias' Son.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Neri.md"
+                "file": "Characters/Joseph - Mattathias' Son.md"
               }
             }
           }
@@ -147,35 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072cf424a4f41c4c",
+  "active": "df2d00103a16e4e3",
   "lastOpenFiles": [
-    "Characters/Untitled",
-    "Characters/Salathiel.md",
-    "Characters/Neri.md",
-    "Characters/Zorobabel.md",
-    "Characters/Zerubbabel.md",
-    "Characters/Shealtiel.md",
-    "Etc/Possible Contradictory List.md",
-    "Characters/Rhesa.md",
+    "Characters/Mattathias - Amos' Son.md",
+    "Characters/Amos.md",
+    "Characters/Naum.md",
+    "Characters/Esli.md",
+    "Characters/Nagge.md",
+    "Characters/Maath.md",
+    "Characters/Mattathias - Semei's Son.md",
+    "Characters/Semei.md",
+    "Characters/Joseph - Juda's Son.md",
+    "Characters/Juda - Joanna's Son.md",
     "Characters/Joanna.md",
     "Characters/Juda.md",
-    "Characters/Joseph - Mary's Joseph's 2nd Predecessor.md",
-    "Characters/Semei.md",
-    "Characters/Mattathias - Mary's Joseph's Higher Predecessor.md",
-    "Characters/Maath.md",
-    "Characters/Nagge.md",
-    "Characters/Esli.md",
-    "Characters/Naum.md",
-    "Characters/Amos.md",
-    "Characters/Mattathias.md",
-    "Characters/Joseph - Mary's Joseph's Predecessor.md",
-    "Characters/Janna.md",
+    "Characters/Simeon.md",
+    "Characters/Rhesa.md",
+    "Characters/Zorobabel.md",
+    "Characters/Salathiel.md",
+    "Characters/Neri.md",
     "Characters/Melchi.md",
-    "Characters/Levi.md",
+    "Characters/Addi.md",
+    "Characters/Cosam.md",
+    "Characters/Elmodam.md",
+    "Characters/Er.md",
+    "Characters/Jose.md",
+    "Characters/Eliezer.md",
+    "Characters/Jorim.md",
     "Characters/Matthat.md",
+    "Characters/Untitled",
     "Diagrams/Jesus' Genealogy.canvas",
-    "Etc/Targets.md",
-    "Characters/Joseph - Mary's Husband.md",
     "Diagrams",
     "Etc",
     "Characters",

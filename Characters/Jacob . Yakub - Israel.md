@@ -1,8 +1,8 @@
-Father: [[Isaac . Ishak]] (Matthew 1)
+Father: [[Isaac . Ishak]] (Matthew 1) (Luke 3)
 Mother: 
 
 Children:
 1) Boys
-	[[Judah . Yehuda]] (Matthew 1)
+	[[Judah . Juda . Yehuda]] (Matthew 1) (Luke 3)
 2) Girls
 	

@@ -2,8 +2,8 @@ Father:
 Mother: 
 
 Children:
-Spouse: [[Judah . Yehuda]] (Matthew 1)
+Spouse: [[Judah . Juda . Yehuda]] (Matthew 1)
 1) Boys
-	[[Boaz . Boas]] (Matthew 1)
+	[[Boaz . Booz . Boas]] (Matthew 1)
 2) Girls
 	

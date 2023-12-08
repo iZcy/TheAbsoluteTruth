@@ -1,8 +1,8 @@
-Father: [[Nahshon . Nahason]] (Matthew 1)
+Father: [[Nahshon . Naasson . Nahason]] (Matthew 1) (Luke 3)
 Mother: 
 
 Children:
 1) Boys
-	[[Boaz . Boas]] (Matthew 1)
+	[[Boaz . Booz . Boas]] (Matthew 1) (Luke 3)
 2) Girls
 	
