@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f272e3b2b7041b17",
+        "id": "a4377e16ae853f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "df2d00103a16e4e3",
+            "id": "25407ec8ef2d1568",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Joseph - Jacob's Son.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Joseph - Jacob's Son.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Joseph - Jacob's Son.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Joseph - Jacob's Son.md"
+              }
             }
           }
         ]
@@ -138,18 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2d00103a16e4e3",
+  "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Characters/Jacob . Yakub - Israel.md",
     "Characters/Mary.md",
     "Characters/Elisabeth.md",
-    "Characters/John - The Baptist.md",
     "Characters/Zacharias.md",
+    "Untitled.md",
+    "Characters/Jacob . Yakub - Israel.md",
+    "Characters/John - The Baptist.md",
     "Characters/Joseph - Jacob's Son.md",
     "Characters/Zadok.md",
     "Characters/David.md",
     "Places/Nazareth.md",
-    "Untitled.md",
     "Places",
     "Characters/Gabriel - God's Angel.md",
     "Characters/Elias.md",
