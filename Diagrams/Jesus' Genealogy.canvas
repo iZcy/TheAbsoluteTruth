@@ -119,16 +119,8 @@
 		{"id":"5e0c37bfc91c3e8a","type":"text","text":"[[Janna]]","x":1040,"y":-12000,"width":250,"height":60},
 		{"id":"ccdf2ab50109574a","type":"text","text":"[[Melchi - Janna's Son]]","x":1040,"y":-11920,"width":250,"height":60},
 		{"id":"70bb302751f3929e","type":"text","text":"[[Heli]]","x":1040,"y":-11840,"width":250,"height":60},
-		{"id":"9af58308bfc10be0","type":"text","text":"[[Juda - Joanna's Son]]","x":1040,"y":-11760,"width":250,"height":60},
-		{"id":"dbe9af53ece9edaf","type":"text","text":"[[Joseph - Juda's Son]]","x":1040,"y":-11680,"width":250,"height":60},
-		{"id":"50f34c7ed939d7b4","type":"text","text":"[[Semei]]","x":1040,"y":-11600,"width":250,"height":60},
-		{"id":"7f5466ecb9f8dc17","type":"text","text":"[[Mattathias - Semei's Son]]","x":1040,"y":-11520,"width":250,"height":60},
-		{"id":"843f348a80eea650","type":"text","text":"[[Maath]]","x":1040,"y":-11440,"width":250,"height":60},
-		{"id":"86c07e94692a5536","type":"text","text":"[[Nagge]]","x":1040,"y":-11360,"width":250,"height":60},
-		{"id":"607a0c524a41eac5","type":"text","text":"[[Esli]]","x":1040,"y":-11280,"width":250,"height":60},
-		{"id":"efe477ab69afd872","type":"text","text":"[[Naum]]","x":1040,"y":-11200,"width":250,"height":60},
-		{"id":"5c0c4857382f8541","type":"text","text":"[[Amos]]","x":1040,"y":-11120,"width":250,"height":60},
-		{"id":"11a9886667f67f40","type":"text","text":"[[Mattathias - Amos' Son]]","x":1040,"y":-11040,"width":250,"height":60}
+		{"id":"9af58308bfc10be0","type":"text","text":"[[Joseph - Mary's Husband]]","x":1040,"y":-11760,"width":250,"height":60},
+		{"id":"41b979ad0a36b08b","type":"text","text":"[[Jesus Christ - The Messiah]]","x":1040,"y":-11680,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"d017d829a1fc8877","fromNode":"12977804274f9cb2","fromSide":"bottom","toNode":"0d8ee4e9c9956f8f","toSide":"top"},
@@ -242,14 +234,7 @@
 		{"id":"ad167ceae03038a8","fromNode":"5e0c37bfc91c3e8a","fromSide":"bottom","toNode":"ccdf2ab50109574a","toSide":"top"},
 		{"id":"9ed446a8f8ad33f3","fromNode":"ccdf2ab50109574a","fromSide":"bottom","toNode":"70bb302751f3929e","toSide":"top"},
 		{"id":"b5a1ef5852ef1f23","fromNode":"70bb302751f3929e","fromSide":"bottom","toNode":"9af58308bfc10be0","toSide":"top"},
-		{"id":"15a64e44f3bacfbf","fromNode":"9af58308bfc10be0","fromSide":"bottom","toNode":"dbe9af53ece9edaf","toSide":"top"},
-		{"id":"549a2e80bba63e95","fromNode":"dbe9af53ece9edaf","fromSide":"bottom","toNode":"50f34c7ed939d7b4","toSide":"top"},
-		{"id":"f3782e96c44ff543","fromNode":"50f34c7ed939d7b4","fromSide":"bottom","toNode":"7f5466ecb9f8dc17","toSide":"top"},
-		{"id":"82cf876123863002","fromNode":"7f5466ecb9f8dc17","fromSide":"bottom","toNode":"843f348a80eea650","toSide":"top"},
-		{"id":"9a32e6bdffae2728","fromNode":"843f348a80eea650","fromSide":"bottom","toNode":"86c07e94692a5536","toSide":"top"},
-		{"id":"e898f66c3b0b5933","fromNode":"86c07e94692a5536","fromSide":"bottom","toNode":"607a0c524a41eac5","toSide":"top"},
-		{"id":"ac1824c7c906f204","fromNode":"607a0c524a41eac5","fromSide":"bottom","toNode":"efe477ab69afd872","toSide":"top"},
-		{"id":"fd312bd92e377528","fromNode":"efe477ab69afd872","fromSide":"bottom","toNode":"5c0c4857382f8541","toSide":"top"},
-		{"id":"39f161c2a40995de","fromNode":"5c0c4857382f8541","fromSide":"bottom","toNode":"11a9886667f67f40","toSide":"top"}
+		{"id":"596147c9c81af1bb","fromNode":"39ae0b906d70b5db","fromSide":"bottom","toNode":"4bb2ec64a2fdc2dc","toSide":"top"},
+		{"id":"ee1a4bc156d463eb","fromNode":"8f6f44a89be7bfd5","fromSide":"bottom","toNode":"755ef8a744186486","toSide":"top"}
 	]
 }

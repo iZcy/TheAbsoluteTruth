@@ -11,14 +11,12 @@
             "id": "df2d00103a16e4e3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
-                "viewState": {
-                  "x": 1266.2959303154785,
-                  "y": -11768.592426254723,
-                  "zoom": 0.33333333333333365
-                }
+                "file": "Characters/Joseph - Mattathias' Son.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
+                "file": "Characters/Joseph - Mattathias' Son.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
+                "file": "Characters/Joseph - Mattathias' Son.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas"
+                "file": "Characters/Joseph - Mattathias' Son.md"
               }
             }
           }
@@ -151,25 +149,6 @@
   },
   "active": "df2d00103a16e4e3",
   "lastOpenFiles": [
-    "Characters/Melchi - Addi's Son.md",
-    "Diagrams/Jesus' Genealogy.canvas",
-    "Characters/Matthat.md",
-    "Characters/Matthat - Mary's Joseph's 2nd Predecessor.md",
-    "Characters/Juda - Joseph's Son.md",
-    "Etc/Possible Contradictory List.md",
-    "Characters/Amminadab . Aminadab.md",
-    "Characters/Admin.md",
-    "Characters/Arni.md",
-    "Characters/Hezron . Esrom.md",
-    "Characters/Perez . Phares.md",
-    "Characters/Addi.md",
-    "Characters/Cainan - Arphaxad's Son.md",
-    "Characters/Jesus Christ - The Messiah.md",
-    "Characters/Joseph - Mary's Husband.md",
-    "Characters/Heli.md",
-    "Characters/Melchi - Janna's Son.md",
-    "Characters/Janna.md",
-    "Characters/Joseph - Mattathias' Son.md",
     "Characters/Mattathias - Amos' Son.md",
     "Characters/Amos.md",
     "Characters/Naum.md",
@@ -178,6 +157,25 @@
     "Characters/Maath.md",
     "Characters/Mattathias - Semei's Son.md",
     "Characters/Semei.md",
+    "Characters/Joseph - Juda's Son.md",
+    "Characters/Juda - Joanna's Son.md",
+    "Characters/Joanna.md",
+    "Characters/Rhesa.md",
+    "Characters/Zorobabel.md",
+    "Characters/Salathiel.md",
+    "Characters/Neri.md",
+    "Characters/Melchi - Addi's Son.md",
+    "Characters/Addi.md",
+    "Characters/Cosam.md",
+    "Characters/Elmodam.md",
+    "Characters/Er.md",
+    "Characters/Jose.md",
+    "Characters/Eliezer.md",
+    "Characters/Jorim.md",
+    "Characters/Matthat.md",
+    "Characters/Levi.md",
+    "Characters/Simeon.md",
+    "Diagrams/Jesus' Genealogy.canvas",
     "Characters/Untitled",
     "Diagrams",
     "Etc",
