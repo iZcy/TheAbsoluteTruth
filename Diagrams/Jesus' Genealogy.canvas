@@ -37,7 +37,7 @@
 		{"id":"924a0b1430c6d5e1","type":"text","text":"[[Eleazar]]","x":371,"y":-13040,"width":250,"height":60},
 		{"id":"4f8b5875e19f4838","type":"text","text":"[[Matthan]]","x":371,"y":-12960,"width":250,"height":60},
 		{"id":"63ae7f778cf6f945","type":"text","text":"[[Jacob - Mary's Father in Law]]","x":371,"y":-12880,"width":250,"height":60},
-		{"id":"367ea3b913257274","type":"text","text":"[[Joseph - Mary's Husband]]","x":371,"y":-12800,"width":250,"height":60},
+		{"id":"367ea3b913257274","type":"text","text":"[[Joseph - Jacob's Son]]","x":371,"y":-12800,"width":250,"height":60},
 		{"id":"73916f47c2efd1a2","type":"text","text":"[[Azor]]","x":371,"y":-13360,"width":250,"height":60},
 		{"id":"2a7dbc19921bdab7","type":"text","text":"[[Zadok]]","x":371,"y":-13280,"width":250,"height":60},
 		{"id":"f014192e7090305d","type":"text","text":"[[Akim]]","x":371,"y":-13200,"width":250,"height":60},
@@ -56,7 +56,7 @@
 		{"id":"8668bc777c28e6b2","type":"text","text":"[[Saruch]]","x":740,"y":-16160,"width":250,"height":60},
 		{"id":"f263b8f25840c718","type":"text","text":"[[Nachor]]","x":740,"y":-16080,"width":250,"height":60},
 		{"id":"ca9e79e159d30237","type":"text","text":"[[Thara]]","x":740,"y":-16000,"width":250,"height":60},
-		{"id":"321bd59b79e9deac","type":"text","text":"[[YHWH . GOD]]","x":740,"y":-17600,"width":250,"height":60,"color":"4"},
+		{"id":"321bd59b79e9deac","type":"text","text":"[[YHWH - GOD]]","x":740,"y":-17600,"width":250,"height":60,"color":"4"},
 		{"id":"a167ac1da46e6d10","type":"text","text":"Based on Luke 3","x":740,"y":-17680,"width":250,"height":60,"color":"1"},
 		{"id":"3ccc3d9a05648e9f","type":"text","text":"[[Lamech]]","x":740,"y":-16880,"width":250,"height":60},
 		{"id":"730739f0f9953e7e","type":"text","text":"[[Noe]]","x":740,"y":-16800,"width":250,"height":60},
@@ -85,7 +85,7 @@
 		{"id":"31bf2ba01efdb801","type":"text","text":"[[Joseph - Jonan's Son]]","x":1040,"y":-14320,"width":250,"height":60},
 		{"id":"a1901267773dcf3f","type":"text","text":"[[Juda - Joseph's Son]]","x":1040,"y":-14240,"width":250,"height":60},
 		{"id":"e42b5622345f2859","type":"text","text":"[[Simeon]]","x":1040,"y":-14160,"width":250,"height":60},
-		{"id":"30ccfdf5d4a023cc","type":"text","text":"[[Levi]]","x":1040,"y":-14080,"width":250,"height":60},
+		{"id":"30ccfdf5d4a023cc","type":"text","text":"[[Levi - Simeon's Son]]","x":1040,"y":-14080,"width":250,"height":60},
 		{"id":"dbcb822bf0c57bcb","type":"text","text":"[[Melea]]","x":1040,"y":-14560,"width":250,"height":60},
 		{"id":"50c82208629231d3","type":"text","text":"[[Nathan]]","x":1040,"y":-14800,"width":250,"height":60},
 		{"id":"044453198ca9570f","type":"text","text":"[[Mattatha]]","x":1040,"y":-14720,"width":250,"height":60},
@@ -108,7 +108,7 @@
 		{"id":"fa3add8d614527ab","type":"text","text":"[[Naum]]","x":1040,"y":-12320,"width":250,"height":60},
 		{"id":"891e54fbf288e3cc","type":"text","text":"[[Amos]]","x":1040,"y":-12240,"width":250,"height":60},
 		{"id":"39ae0b906d70b5db","type":"text","text":"[[Mattathias - Amos' Son]]","x":1040,"y":-12160,"width":250,"height":60},
-		{"id":"4d45685d16317cd1","type":"text","text":"[[Matthat]]","x":1040,"y":-14000,"width":250,"height":60},
+		{"id":"4d45685d16317cd1","type":"text","text":"[[Matthat - Levi's Son]]","x":1040,"y":-14000,"width":250,"height":60},
 		{"id":"104bf58470a7b502","type":"text","text":"[[Jorim]]","x":1040,"y":-13920,"width":250,"height":60},
 		{"id":"5cdc28b002117de8","type":"text","text":"[[Eliezer]]","x":1040,"y":-13840,"width":250,"height":60},
 		{"id":"f9e39a8f26a53ef5","type":"text","text":"[[Jose]]","x":1040,"y":-13760,"width":250,"height":60},
@@ -118,9 +118,11 @@
 		{"id":"4bb2ec64a2fdc2dc","type":"text","text":"[[Joseph - Mattathias' Son]]","x":1040,"y":-12080,"width":250,"height":60},
 		{"id":"5e0c37bfc91c3e8a","type":"text","text":"[[Janna]]","x":1040,"y":-12000,"width":250,"height":60},
 		{"id":"ccdf2ab50109574a","type":"text","text":"[[Melchi - Janna's Son]]","x":1040,"y":-11920,"width":250,"height":60},
-		{"id":"70bb302751f3929e","type":"text","text":"[[Heli]]","x":1040,"y":-11840,"width":250,"height":60},
-		{"id":"9af58308bfc10be0","type":"text","text":"[[Joseph - Mary's Husband]]","x":1040,"y":-11760,"width":250,"height":60},
-		{"id":"41b979ad0a36b08b","type":"text","text":"[[Jesus Christ - The Messiah]]","x":1040,"y":-11680,"width":250,"height":60,"color":"2"}
+		{"id":"04dda678839d5c3d","type":"text","text":"[[Levi - Melchi's Son]]","x":1040,"y":-11840,"width":250,"height":60},
+		{"id":"8cf2fa58f1c44602","type":"text","text":"[[Matthat - Levi's Son Heli's Father]]","x":1040,"y":-11760,"width":250,"height":60},
+		{"id":"70bb302751f3929e","type":"text","text":"[[Heli]]","x":1040,"y":-11680,"width":250,"height":60},
+		{"id":"9af58308bfc10be0","type":"text","text":"[[Joseph - Jacob's Son]]","x":1040,"y":-11600,"width":250,"height":60},
+		{"id":"41b979ad0a36b08b","type":"text","text":"[[Jesus Christ - The Messiah]]","x":1040,"y":-11520,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"d017d829a1fc8877","fromNode":"12977804274f9cb2","fromSide":"bottom","toNode":"0d8ee4e9c9956f8f","toSide":"top"},
@@ -232,9 +234,11 @@
 		{"id":"6ce8ca93088621ec","fromNode":"ea9e7197407a4c60","fromSide":"bottom","toNode":"3e9cfe1690b682db","toSide":"top"},
 		{"id":"a4fd7860e7939ed7","fromNode":"4bb2ec64a2fdc2dc","fromSide":"bottom","toNode":"5e0c37bfc91c3e8a","toSide":"top"},
 		{"id":"ad167ceae03038a8","fromNode":"5e0c37bfc91c3e8a","fromSide":"bottom","toNode":"ccdf2ab50109574a","toSide":"top"},
-		{"id":"9ed446a8f8ad33f3","fromNode":"ccdf2ab50109574a","fromSide":"bottom","toNode":"70bb302751f3929e","toSide":"top"},
 		{"id":"b5a1ef5852ef1f23","fromNode":"70bb302751f3929e","fromSide":"bottom","toNode":"9af58308bfc10be0","toSide":"top"},
 		{"id":"596147c9c81af1bb","fromNode":"39ae0b906d70b5db","fromSide":"bottom","toNode":"4bb2ec64a2fdc2dc","toSide":"top"},
-		{"id":"ee1a4bc156d463eb","fromNode":"8f6f44a89be7bfd5","fromSide":"bottom","toNode":"755ef8a744186486","toSide":"top"}
+		{"id":"ee1a4bc156d463eb","fromNode":"8f6f44a89be7bfd5","fromSide":"bottom","toNode":"755ef8a744186486","toSide":"top"},
+		{"id":"fedd21c041c7ced4","fromNode":"04dda678839d5c3d","fromSide":"bottom","toNode":"8cf2fa58f1c44602","toSide":"top"},
+		{"id":"30e10c23a0abaaf7","fromNode":"ccdf2ab50109574a","fromSide":"bottom","toNode":"04dda678839d5c3d","toSide":"top"},
+		{"id":"dbae5c5bc1b2a2d2","fromNode":"8cf2fa58f1c44602","fromSide":"bottom","toNode":"70bb302751f3929e","toSide":"top"}
 	]
 }

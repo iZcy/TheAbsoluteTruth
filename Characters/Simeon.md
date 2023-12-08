@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Levi]] (Luke 3)
+	[[Levi - Simeon's Son]] (Luke 3)
 2) Girls
 	

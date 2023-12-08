@@ -1,4 +1,4 @@
-Father: [[Matthat]] (Luke 3)
+Father: [[Matthat - Levi's Son]] (Luke 3)
 Mother: 
 
 Children:

@@ -1,4 +1,4 @@
-Divinely Father: [[YHWH . GOD]] (Luke 3)
+Divinely Father: [[YHWH - GOD]] (Luke 3)
 
 Children:
 Spouse : [[Eve]]

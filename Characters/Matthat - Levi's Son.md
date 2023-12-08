@@ -1,4 +1,4 @@
-Father: [[Levi]] (Luke 3)
+Father: [[Levi - Simeon's Son]] (Luke 3)
 Mother: 
 
 Children:

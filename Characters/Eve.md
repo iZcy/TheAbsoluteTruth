@@ -1,4 +1,4 @@
-Divinely Father: [[YHWH . GOD]]
+Divinely Father: [[YHWH - GOD]]
 
 Children:
 Spouse : [[Adam]]

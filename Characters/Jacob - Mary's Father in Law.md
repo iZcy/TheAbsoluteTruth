@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Joseph - Mary's Husband]] (Matthew 1)
+	[[Joseph - Jacob's Son]] (Matthew 1)
 2) Girls
 	

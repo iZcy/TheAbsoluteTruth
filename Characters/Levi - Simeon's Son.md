@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Matthat]] (Luke 3)
+	[[Matthat - Levi's Son]] (Luke 3)
 2) Girls
 	

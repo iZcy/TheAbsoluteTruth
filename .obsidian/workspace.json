@@ -11,13 +11,8 @@
             "id": "df2d00103a16e4e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Joseph - Mattathias' Son.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Joseph - Mattathias' Son.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Joseph - Mattathias' Son.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Joseph - Mattathias' Son.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,32 +140,34 @@
   },
   "active": "df2d00103a16e4e3",
   "lastOpenFiles": [
-    "Characters/Mattathias - Amos' Son.md",
-    "Characters/Amos.md",
-    "Characters/Naum.md",
-    "Characters/Esli.md",
-    "Characters/Nagge.md",
-    "Characters/Maath.md",
-    "Characters/Mattathias - Semei's Son.md",
-    "Characters/Semei.md",
-    "Characters/Joseph - Juda's Son.md",
-    "Characters/Juda - Joanna's Son.md",
-    "Characters/Joanna.md",
-    "Characters/Rhesa.md",
-    "Characters/Zorobabel.md",
-    "Characters/Salathiel.md",
-    "Characters/Neri.md",
-    "Characters/Melchi - Addi's Son.md",
-    "Characters/Addi.md",
-    "Characters/Cosam.md",
-    "Characters/Elmodam.md",
-    "Characters/Er.md",
-    "Characters/Jose.md",
-    "Characters/Eliezer.md",
-    "Characters/Jorim.md",
-    "Characters/Matthat.md",
-    "Characters/Levi.md",
-    "Characters/Simeon.md",
+    "Characters/Jacob . Yakub - Israel.md",
+    "Characters/Mary.md",
+    "Characters/Elisabeth.md",
+    "Characters/John - The Baptist.md",
+    "Characters/Zacharias.md",
+    "Characters/Joseph - Jacob's Son.md",
+    "Characters/Zadok.md",
+    "Characters/David.md",
+    "Places/Nazareth.md",
+    "Untitled.md",
+    "Places",
+    "Characters/Gabriel - God's Angel.md",
+    "Characters/Elias.md",
+    "().md",
+    "Characters/Aaron . Harun.md",
+    "Characters/Zerah.md",
+    "Characters/YHWH - GOD.md",
+    "Characters/Uzziah.md",
+    "Community/Abia Course.md",
+    "Characters/Levi - Melchi's Son.md",
+    "Jan.md",
+    "Characters/Matthat - Levi's Son Heli's Father.md",
+    "Community",
+    "Characters/Herod.md",
+    "Characters/Abijah.md",
+    "Characters/Jesus Christ - The Messiah.md",
+    "Characters/Heli.md",
+    "Characters/Melchi - Janna's Son.md",
     "Diagrams/Jesus' Genealogy.canvas",
     "Characters/Untitled",
     "Diagrams",

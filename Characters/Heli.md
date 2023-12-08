@@ -1,9 +1,9 @@
-Father: [[Melchi - Janna's Son]] (Luke 3)
+Father: [[Matthat - Levi's Son Heli's Father]] (Luke 3)
 Mother: 
 
 Children:
 Spouse : 
 1) Boys
-	[[Joseph - Mary's Husband]] (Luke 3)
+	[[Joseph - Jacob's Son]] (Luke 3)
 2) Girls
 	
