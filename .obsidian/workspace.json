@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Jotham.md",
+                "file": "Characters/Neri.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jotham.md",
+                "file": "Characters/Neri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jotham.md",
+                "file": "Characters/Neri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jotham.md"
+                "file": "Characters/Neri.md"
               }
             }
           }
@@ -147,37 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df2d00103a16e4e3",
+  "active": "072cf424a4f41c4c",
   "lastOpenFiles": [
-    "Characters/Uzziah.md",
-    "Characters/Jotham.md",
-    "Characters/Jehoram.md",
-    "Characters/Jehoshaphat.md",
-    "Characters/Asa.md",
-    "Characters/Abijah.md",
-    "Characters/Rehoboam.md",
-    "Characters/Solomon . Salomo.md",
-    "Characters/David . Daud.md",
-    "Characters/Joseph.md",
-    "Characters/Jacob.md",
-    "Characters/Matthan.md",
-    "Characters/Eleazar.md",
-    "Characters/Elihud.md",
-    "Characters/Akim.md",
-    "Characters/Zadok.md",
-    "Characters/Azor.md",
-    "Characters/Eliakim.md",
-    "Characters/Abihud.md",
+    "Characters/Untitled",
+    "Characters/Salathiel.md",
+    "Characters/Neri.md",
+    "Characters/Zorobabel.md",
     "Characters/Zerubbabel.md",
     "Characters/Shealtiel.md",
-    "Characters/Jeconiah.md",
-    "Characters/Josiah.md",
-    "Characters/Amon.md",
-    "Characters/Manasseh.md",
-    "Characters/Hezekiah.md",
+    "Etc/Possible Contradictory List.md",
+    "Characters/Rhesa.md",
+    "Characters/Joanna.md",
+    "Characters/Juda.md",
+    "Characters/Joseph - Mary's Joseph's 2nd Predecessor.md",
+    "Characters/Semei.md",
+    "Characters/Mattathias - Mary's Joseph's Higher Predecessor.md",
+    "Characters/Maath.md",
+    "Characters/Nagge.md",
+    "Characters/Esli.md",
+    "Characters/Naum.md",
+    "Characters/Amos.md",
+    "Characters/Mattathias.md",
+    "Characters/Joseph - Mary's Joseph's Predecessor.md",
+    "Characters/Janna.md",
+    "Characters/Melchi.md",
+    "Characters/Levi.md",
+    "Characters/Matthat.md",
     "Diagrams/Jesus' Genealogy.canvas",
+    "Etc/Targets.md",
+    "Characters/Joseph - Mary's Husband.md",
     "Diagrams",
-    "Updates",
+    "Etc",
     "Characters",
     "Books/Untitled.canvas",
     "Books"

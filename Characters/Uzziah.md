@@ -4,6 +4,6 @@ Mother:
 Children:
 Spouse : 
 1) Boys
-	[[Jot]] (Matthew 1)
+	[[Jotham]] (Matthew 1)
 2) Girls
 	
