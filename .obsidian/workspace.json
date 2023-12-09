@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events/1000. Birth of Jesus.md",
+                "file": "Characters/Anna . Hana - Blessed Jesus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04803892a22a5d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statements/Jesus was only initially sent for the Jews.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/1000. Birth of Jesus.md",
+                "file": "Statements/Jesus was only initially sent for the Jews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/1000. Birth of Jesus.md",
+                "file": "Statements/Jesus was only initially sent for the Jews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events/1000. Birth of Jesus.md"
+                "file": "Statements/Jesus was only initially sent for the Jews.md"
               }
             }
           }
@@ -147,15 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25407ec8ef2d1568",
+  "active": "04803892a22a5d14",
   "lastOpenFiles": [
-    "Characters/Quirinius . Cyrenius . Kirenius.md",
+    "Statements",
+    "Characters/Anna . Hana - Blessed Jesus.md",
+    "Statements/Jesus was only initially sent for the Jews.md",
+    "Characters/Asher.md",
+    "Characters/Phanuel . Fanuel.md",
     "Events/1000. Birth of Jesus.md",
+    "Characters/YHWH - GOD.md",
+    "Places/Nazareth, Judaea.md",
+    "Songs and Poems/Blessing of Simeon.md",
+    "Characters/Simeon - Blessed Jesus.md",
+    "Characters/Simeon.md",
+    "Characters/The Shepherds.md",
+    "Characters/Quirinius . Cyrenius . Kirenius.md",
+    "Characters/Jesus Christ - The Messiah.md",
     "Characters/Caesar Augustus.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
-    "Places/Nazareth, Judaea.md",
     "Places/Bethlehem, Galilee.md",
     "Events/999. Birth of John.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
@@ -164,20 +189,9 @@
     "Characters/John - The Baptist.md",
     "Songs and Poems/Mary's Song.md",
     "Characters/Elisabeth.md",
-    "Untitled.md",
     "Songs and Poems",
-    "Characters/Mary.md",
-    "Characters/Joseph - Jacob's Son.md",
-    "Characters/Jesus Christ - The Messiah.md",
-    "README.md",
     "Traditions",
     "Events",
-    "Characters/Elias.md",
-    "Characters/Holy Ghost.md",
-    "Characters/Herod - King of Judaea.md",
-    "Books/Bible/New Testaments/2. Paul's Letters/5. Acts . Kisah Para Rasul.md",
-    "Books/Bible/New Testaments/3. Other Apostles/27. Revelation . Wahyu.md",
-    "Books/Bible/New Testaments/3. Other Apostles/26. Jude . Yudas.md",
     "Books/Bible/Old Testaments - Tanakh/3. Nevi'im/Untitled",
     "Books/Bible/Old Testaments - Tanakh/1.-2. Leaders of Israel",
     "Books/Bible/New Testaments/3. Other Apostles",
