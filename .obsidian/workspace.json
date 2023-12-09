@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1002. 12 Years Old Jesus in the Temple.md",
+                "file": "Events - Versed/1003. The Baptism of Jesus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1002. 12 Years Old Jesus in the Temple.md",
+                "file": "Events - Versed/1003. The Baptism of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1002. 12 Years Old Jesus in the Temple.md",
+                "file": "Events - Versed/1003. The Baptism of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1002. 12 Years Old Jesus in the Temple.md"
+                "file": "Events - Versed/1003. The Baptism of Jesus.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Traditions/Days/The Passover.md",
     "Events - Versed/1002. 12 Years Old Jesus in the Temple.md",
+    "Events - Versed/1003. The Baptism of Jesus.md",
+    "Objects/Buildings",
+    "Traditions/Days/The Passover.md",
     "Traditions/Days",
     "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
@@ -176,7 +178,6 @@
     "Objects/Items/Frankincense.md",
     "Objects/Items/Myrrh.md",
     "Objects/Items",
-    "Objects/Untitled.md",
     "Titles",
     "Objects/Nature",
     "Objects",
@@ -184,7 +185,6 @@
     "Songs and Poems",
     "Traditions",
     "Events - Versed",
-    "Books/Bible/Old Testaments - Tanakh/3. Nevi'im/Untitled",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
