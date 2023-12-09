@@ -1,1 +1,2 @@
-Title: Roman Emperor (Luke 2)
+Title:
+	[[Roman Emperor]] (Luke 2)

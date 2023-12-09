@@ -41,7 +41,7 @@
 		{"id":"73916f47c2efd1a2","type":"text","text":"[[Azor]]","x":371,"y":-13360,"width":250,"height":60},
 		{"id":"2a7dbc19921bdab7","type":"text","text":"[[Zadok]]","x":371,"y":-13280,"width":250,"height":60},
 		{"id":"f014192e7090305d","type":"text","text":"[[Akim]]","x":371,"y":-13200,"width":250,"height":60},
-		{"id":"2270bde3edb40cb2","type":"text","text":"[[Jesus Christ - The Messiah]]","x":371,"y":-12720,"width":250,"height":60,"color":"2"},
+		{"id":"2270bde3edb40cb2","type":"text","text":"[[Jesus Christ]]","x":371,"y":-12720,"width":250,"height":60,"color":"2"},
 		{"id":"0f8a5ac5beed5376","type":"text","text":"[[Abraham]]","x":740,"y":-15920,"width":250,"height":60},
 		{"id":"b142a902f09b7782","type":"text","text":"[[Isaac . Ishak]]","x":740,"y":-15840,"width":250,"height":60},
 		{"id":"80e66a98a2a7a632","type":"text","text":"[[Jacob . Yakub - Israel]]","x":740,"y":-15760,"width":250,"height":60},
@@ -122,7 +122,7 @@
 		{"id":"8cf2fa58f1c44602","type":"text","text":"[[Matthat - Levi's Son Heli's Father]]","x":1040,"y":-11760,"width":250,"height":60},
 		{"id":"70bb302751f3929e","type":"text","text":"[[Heli]]","x":1040,"y":-11680,"width":250,"height":60},
 		{"id":"9af58308bfc10be0","type":"text","text":"[[Joseph - Jacob's Son]]","x":1040,"y":-11600,"width":250,"height":60},
-		{"id":"41b979ad0a36b08b","type":"text","text":"[[Jesus Christ - The Messiah]]","x":1040,"y":-11520,"width":250,"height":60,"color":"2"}
+		{"id":"41b979ad0a36b08b","type":"text","text":"[[Jesus Christ]]","x":1040,"y":-11520,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"d017d829a1fc8877","fromNode":"12977804274f9cb2","fromSide":"bottom","toNode":"0d8ee4e9c9956f8f","toSide":"top"},

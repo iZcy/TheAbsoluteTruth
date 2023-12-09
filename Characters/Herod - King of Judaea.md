@@ -1,1 +1,0 @@
-Role: King of Judaea

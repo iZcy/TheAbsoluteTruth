@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Anna . Hana - Blessed Jesus.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04803892a22a5d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statements/Jesus was only initially sent for the Jews.md",
+                "file": "Events/1000. Birth of Jesus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statements/Jesus was only initially sent for the Jews.md",
+                "file": "Events/1000. Birth of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statements/Jesus was only initially sent for the Jews.md",
+                "file": "Events/1000. Birth of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statements/Jesus was only initially sent for the Jews.md"
+                "file": "Events/1000. Birth of Jesus.md"
               }
             }
           }
@@ -161,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04803892a22a5d14",
+  "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Statements",
+    "Characters/The Magi . The Wise Men.md",
+    "Events/1000. Birth of Jesus.md",
+    "Characters/Herod.md",
+    "Titles/King of Judaea.md",
+    "Places/Nazareth, Judaea.md",
+    "Characters/Jesus Christ.md",
+    "Titles/Son of God.md",
+    "Titles/King House of Jacob.md",
+    "Titles/King of the Throne of David.md",
+    "Titles/Son of the Most High.md",
+    "Titles/The Messiah - Christ.md",
+    "Titles/King of the Jews.md",
+    "Titles/Immanuel.md",
+    "Characters/Caesar Augustus.md",
+    "Titles/Roman Emperor.md",
+    "Places/Bethlehem, Galilee.md",
+    "Untitled.md",
+    "Titles",
+    "Objects/Nature/East Star.md",
+    "Objects/Untitled",
+    "Objects/Nature",
+    "Objects",
+    "Places/Jerusalem.md",
     "Characters/Anna . Hana - Blessed Jesus.md",
     "Statements/Jesus was only initially sent for the Jews.md",
+    "Statements",
     "Characters/Asher.md",
     "Characters/Phanuel . Fanuel.md",
-    "Events/1000. Birth of Jesus.md",
     "Characters/YHWH - GOD.md",
-    "Places/Nazareth, Judaea.md",
     "Songs and Poems/Blessing of Simeon.md",
     "Characters/Simeon - Blessed Jesus.md",
-    "Characters/Simeon.md",
-    "Characters/The Shepherds.md",
-    "Characters/Quirinius . Cyrenius . Kirenius.md",
-    "Characters/Jesus Christ - The Messiah.md",
-    "Characters/Caesar Augustus.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
-    "Places/Bethlehem, Galilee.md",
-    "Events/999. Birth of John.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
-    "Characters/Zacharias . Zechariah . Zakharia.md",
-    "Songs and Poems/Zechariah's Praise.md",
-    "Characters/John - The Baptist.md",
-    "Songs and Poems/Mary's Song.md",
-    "Characters/Elisabeth.md",
     "Songs and Poems",
     "Traditions",
     "Events",
     "Books/Bible/Old Testaments - Tanakh/3. Nevi'im/Untitled",
     "Books/Bible/Old Testaments - Tanakh/1.-2. Leaders of Israel",
-    "Books/Bible/New Testaments/3. Other Apostles",
-    "Books/Bible/New Testaments/2. Paul's Letters",
-    "Books/Bible/New Testaments/1. Gospel . Injeel",
-    "Books/Bible/Old Testaments - Tanakh/2. Ketuvim",
-    "Books/Bible/Old Testaments - Tanakh/3. Nevi'im",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
