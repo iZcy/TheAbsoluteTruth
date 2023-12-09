@@ -1,1 +1,3 @@
-Entitled to: [[Herod]]
+Entitled to:
+	[[Herod]]
+	[[Archelaus]]
