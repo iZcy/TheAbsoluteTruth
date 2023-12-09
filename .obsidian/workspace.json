@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Joseph - Jacob's Son.md",
+                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Joseph - Jacob's Son.md",
+                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Joseph - Jacob's Son.md",
+                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Joseph - Jacob's Son.md"
+                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md"
               }
             }
           }
@@ -149,17 +149,33 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Books/Bible/Old Testaments - Tanakh/1. Torah/4. Numbers - Bilangan.md",
+    "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
+    "Books/Bible/Old Testaments - Tanakh/1. Torah/3. Leviticus - Imamat.md",
+    "Books/Bible/Old Testaments - Tanakh/1. Torah/2. Exodus . Keluaran.md",
+    "Books/Bible/Old Testaments - Tanakh/1. Torah/1. Genesis . Kejadian.md",
+    "Characters/Joseph - Jacob's Son.md",
+    "Untitled.md",
+    "Books/Bible/New Testaments/3. Other Apostles",
+    "Books/Bible/New Testaments/2. Paul's Letters",
+    "Books/Bible/New Testaments/1. Gospel . Injeel",
+    "Books/Bible/Old Testaments - Tanakh/2. Ketuvim",
+    "Books/Bible/Old Testaments - Tanakh/3. Nevi'im",
+    "Books/Bible/Old Testaments - Tanakh/1. Torah",
+    "Books/Bible/New Testaments",
+    "Books/Bible/Untitled.md",
+    "Books/Bible/Old Testaments - Tanakh",
+    "Untitled",
+    "Books/Bible",
+    "Untitled 1.md",
     "Characters/Mary.md",
     "Characters/Elisabeth.md",
     "Characters/Zacharias.md",
-    "Untitled.md",
     "Characters/Jacob . Yakub - Israel.md",
     "Characters/John - The Baptist.md",
-    "Characters/Joseph - Jacob's Son.md",
     "Characters/Zadok.md",
     "Characters/David.md",
     "Places/Nazareth.md",
-    "Places",
     "Characters/Gabriel - God's Angel.md",
     "Characters/Elias.md",
     "().md",
@@ -169,20 +185,7 @@
     "Characters/Uzziah.md",
     "Community/Abia Course.md",
     "Characters/Levi - Melchi's Son.md",
-    "Jan.md",
-    "Characters/Matthat - Levi's Son Heli's Father.md",
-    "Community",
-    "Characters/Herod.md",
-    "Characters/Abijah.md",
-    "Characters/Jesus Christ - The Messiah.md",
-    "Characters/Heli.md",
-    "Characters/Melchi - Janna's Son.md",
     "Diagrams/Jesus' Genealogy.canvas",
-    "Characters/Untitled",
-    "Diagrams",
-    "Etc",
-    "Characters",
-    "Books/Untitled.canvas",
-    "Books"
+    "Books/Untitled.canvas"
   ]
 }
