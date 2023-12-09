@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
+                "file": "Events/999. Birth of John.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 200
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
+                "file": "Events/999. Birth of John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
+                "file": "Events/999. Birth of John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md"
+                "file": "Events/999. Birth of John.md"
               }
             }
           }
@@ -149,42 +149,42 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Books/Bible/Old Testaments - Tanakh/1. Torah/4. Numbers - Bilangan.md",
-    "Books/Bible/Old Testaments - Tanakh/1. Torah/5. Deutoronomy - Ulangan.md",
-    "Books/Bible/Old Testaments - Tanakh/1. Torah/3. Leviticus - Imamat.md",
-    "Books/Bible/Old Testaments - Tanakh/1. Torah/2. Exodus . Keluaran.md",
-    "Books/Bible/Old Testaments - Tanakh/1. Torah/1. Genesis . Kejadian.md",
-    "Characters/Joseph - Jacob's Son.md",
+    "Events/1000. Birth of Jesus.md",
+    "Songs and Poems/Mary's Song.md",
+    "Events/999. Birth of John.md",
+    "Characters/Elisabeth.md",
+    "Characters/Zacharias.md",
     "Untitled.md",
+    "Songs and Poems",
+    "Characters/Mary.md",
+    "Characters/Joseph - Jacob's Son.md",
+    "Characters/Jesus Christ - The Messiah.md",
+    "Places/Nazareth, Judaea.md",
+    "Places/Bethlehem, Galilee.md",
+    "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
+    "README.md",
+    "Traditions",
+    "Events",
+    "Characters/Augustus - Roman Emperator.md",
+    "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
+    "Characters/Quirinius . Cyrenius . Kirenius - Governor of Syria.md",
+    "Characters/Elias.md",
+    "Characters/Holy Ghost.md",
+    "Characters/Herod - King of Judaea.md",
+    "Books/Bible/New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
+    "Books/Bible/New Testaments/2. Paul's Letters/5. Acts . Kisah Para Rasul.md",
+    "Books/Bible/New Testaments/3. Other Apostles/27. Revelation . Wahyu.md",
+    "Books/Bible/New Testaments/3. Other Apostles/26. Jude . Yudas.md",
+    "Books/Bible/New Testaments/3. Other Apostles/25. 3 John . 3 Yohanes.md",
+    "Books/Bible/New Testaments/3. Other Apostles/24. 2 John . 2 Yohanes.md",
+    "Books/Bible/New Testaments/3. Other Apostles/23. 1 John . 1 Yohanes.md",
+    "Books/Bible/Old Testaments - Tanakh/3. Nevi'im/Untitled",
+    "Books/Bible/Old Testaments - Tanakh/1.-2. Leaders of Israel",
     "Books/Bible/New Testaments/3. Other Apostles",
     "Books/Bible/New Testaments/2. Paul's Letters",
     "Books/Bible/New Testaments/1. Gospel . Injeel",
     "Books/Bible/Old Testaments - Tanakh/2. Ketuvim",
     "Books/Bible/Old Testaments - Tanakh/3. Nevi'im",
-    "Books/Bible/Old Testaments - Tanakh/1. Torah",
-    "Books/Bible/New Testaments",
-    "Books/Bible/Untitled.md",
-    "Books/Bible/Old Testaments - Tanakh",
-    "Untitled",
-    "Books/Bible",
-    "Untitled 1.md",
-    "Characters/Mary.md",
-    "Characters/Elisabeth.md",
-    "Characters/Zacharias.md",
-    "Characters/Jacob . Yakub - Israel.md",
-    "Characters/John - The Baptist.md",
-    "Characters/Zadok.md",
-    "Characters/David.md",
-    "Places/Nazareth.md",
-    "Characters/Gabriel - God's Angel.md",
-    "Characters/Elias.md",
-    "().md",
-    "Characters/Aaron . Harun.md",
-    "Characters/Zerah.md",
-    "Characters/YHWH - GOD.md",
-    "Characters/Uzziah.md",
-    "Community/Abia Course.md",
-    "Characters/Levi - Melchi's Son.md",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
