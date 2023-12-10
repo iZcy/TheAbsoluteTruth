@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters - Versed/Philip.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters - Versed/Philip.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters - Versed/Philip.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters - Versed/Philip.md"
+                "file": "Events - Versed/1015. The Baptism of Jesus.md"
               }
             }
           }
@@ -149,33 +149,35 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Titles/King of Judaea.md",
-    "Characters - Versed/Philip.md",
-    "Titles/Governor of Judaea.md",
-    "Characters - Versed/Herod (2nd).md",
+    "Traditions/Teachings/Gospel . Injeel.md",
     "Events - Versed/1015. The Baptism of Jesus.md",
-    "Characters - Versed/Pontius Pilate.md",
+    "Traditions/Teachings",
+    "Traditions/Teachings.md",
+    "Places/Province/Galilee.md",
+    "Community/Soldiers.md",
+    "Community/Publicans.md",
+    "Characters/John - The Baptist.md",
+    "Characters/Caiaphas.md",
+    "Characters/Annas.md",
+    "Community/High Priests.md",
+    "Community/Untitled",
+    "Titles/King of Judaea.md",
+    "Titles/King of Abilene.md",
+    "Characters/Philip.md",
+    "Titles/King of Ituraea.md",
+    "Titles/King of Trachonitis.md",
+    "Titles/Tetrach.md",
+    "Characters/Lysanias.md",
+    "Titles/Governor of Judaea.md",
+    "Characters/Herod (2nd).md",
+    "Characters/Pontius Pilate.md",
     "Titles/Caesar.md",
     "Titles/The Baptist.md",
-    "Characters - Versed/John - The Baptist.md",
-    "Characters - Versed/Tiberius.md",
+    "Characters/Tiberius.md",
     "Community/The Angels.md",
-    "Characters - Versed/Satan.md",
-    "Places/Province/Galilee.md",
+    "Characters/Satan.md",
     "Places/Kingdom/Judaea.md",
     "Places/Kingdom",
-    "Characters - Versed/Jesus Christ.md",
-    "Titles/Son of God.md",
-    "Places/City/Jordan.md",
-    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
-    "Places/City/Bethlehem, Galilee.md",
-    "Traditions/Rites/Baptism.md",
-    "Characters - Versed/Holy Ghost . Holy Spirit.md",
-    "Community/Pharisees.md",
-    "Community/Sadducees.md",
-    "Community/The Magi . The Wise Men.md",
-    "Characters - Versed/Herod.md",
-    "Events - Versed/1000. Birth of Jesus.md",
     "Places/Nation",
     "Places/Province",
     "Places/City",
@@ -185,8 +187,6 @@
     "Objects/Buildings",
     "Traditions/Days",
     "Objects/Items",
-    "Titles",
-    "Objects/Nature",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
