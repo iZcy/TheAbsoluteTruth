@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Community/Pharisees.md",
+                "file": "Characters - Versed/Philip.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 334.5
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Community/Pharisees.md",
+                "file": "Characters - Versed/Philip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Community/Pharisees.md",
+                "file": "Characters - Versed/Philip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Community/Pharisees.md"
+                "file": "Characters - Versed/Philip.md"
               }
             }
           }
@@ -147,46 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "072cf424a4f41c4c",
+  "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Events - Versed/1015. The Baptism of Jesus.md",
-    "Community/Pharisees.md",
-    "Traditions/Rites/Baptism.md",
     "Titles/King of Judaea.md",
+    "Characters - Versed/Philip.md",
+    "Titles/Governor of Judaea.md",
+    "Characters - Versed/Herod (2nd).md",
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Characters - Versed/Pontius Pilate.md",
+    "Titles/Caesar.md",
+    "Titles/The Baptist.md",
+    "Characters - Versed/John - The Baptist.md",
+    "Characters - Versed/Tiberius.md",
+    "Community/The Angels.md",
+    "Characters - Versed/Satan.md",
+    "Places/Province/Galilee.md",
+    "Places/Kingdom/Judaea.md",
+    "Places/Kingdom",
+    "Characters - Versed/Jesus Christ.md",
+    "Titles/Son of God.md",
+    "Places/City/Jordan.md",
+    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
+    "Places/City/Bethlehem, Galilee.md",
+    "Traditions/Rites/Baptism.md",
+    "Characters - Versed/Holy Ghost . Holy Spirit.md",
+    "Community/Pharisees.md",
+    "Community/Sadducees.md",
+    "Community/The Magi . The Wise Men.md",
     "Characters - Versed/Herod.md",
     "Events - Versed/1000. Birth of Jesus.md",
-    "Characters - Versed/Quirinius . Cyrenius . Kirenius.md",
-    "Events - Versed/995. Birth of John.md",
-    "Events - Versed/1005. Massacre of Bethlehem's Babies.md",
-    "Places/Nation/Egypt.md",
-    "Places/City/Nazareth, Judaea.md",
-    "Places/City/Bethlehem, Galilee.md",
-    "Places/City/Jerusalem.md",
     "Places/Nation",
     "Places/Province",
-    "Places/Untitled.md",
     "Places/City",
-    "Places/Province/Judaea.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
-    "Statements - Versed/Questions.md",
-    "Statements - Versed/Jesus was only initially sent for the Jews.md",
-    "Traditions/Rites/Circumcision.md",
-    "Songs and Poems/Blessing of Simeon.md",
     "Traditions/Rites",
-    "Songs and Poems/Mary's Song.md",
     "Objects/Buildings",
-    "Traditions/Days/The Passover.md",
     "Traditions/Days",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
-    "Books/Bible/New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
-    "Characters - Versed/Mary.md",
     "Objects/Items",
     "Titles",
     "Objects/Nature",
-    "Objects",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]

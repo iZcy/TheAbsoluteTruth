@@ -1,3 +1,5 @@
+Title: [[The Baptist]]
+
 Short:
 	1) According to Luke 1
 	2) He was in the wilderness until the day he was revealed to Israel.
