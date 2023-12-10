@@ -1,1 +1,2 @@
-Entitled to: [[Lysanias]] ([[Tetrach]])
+Entitled to: [[Characters/Lysanias]] ([[Tetrach]])
+In Charge of: [[Abilene]]

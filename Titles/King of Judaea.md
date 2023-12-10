@@ -1,4 +1,4 @@
-King of [[Judaea]]
+In Charge of: [[Judaea]]
 
 Entitled to:
 	[[Herod]]
