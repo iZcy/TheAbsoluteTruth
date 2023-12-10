@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1003. The Baptism of Jesus.md",
+                "file": "Community/Pharisees.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1003. The Baptism of Jesus.md",
+                "file": "Community/Pharisees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1003. The Baptism of Jesus.md",
+                "file": "Community/Pharisees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1003. The Baptism of Jesus.md"
+                "file": "Community/Pharisees.md"
               }
             }
           }
@@ -147,44 +147,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25407ec8ef2d1568",
+  "active": "072cf424a4f41c4c",
   "lastOpenFiles": [
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Community/Pharisees.md",
+    "Traditions/Rites/Baptism.md",
+    "Titles/King of Judaea.md",
+    "Characters - Versed/Herod.md",
+    "Events - Versed/1000. Birth of Jesus.md",
+    "Characters - Versed/Quirinius . Cyrenius . Kirenius.md",
+    "Events - Versed/995. Birth of John.md",
+    "Events - Versed/1005. Massacre of Bethlehem's Babies.md",
+    "Places/Nation/Egypt.md",
+    "Places/City/Nazareth, Judaea.md",
+    "Places/City/Bethlehem, Galilee.md",
+    "Places/City/Jerusalem.md",
+    "Places/Nation",
+    "Places/Province",
+    "Places/Untitled.md",
+    "Places/City",
+    "Places/Province/Judaea.md",
     "Untitled.canvas",
-    "Events - Versed/1003. The Baptism of Jesus.md",
-    "Events - Versed/1002. 12 Years Old Jesus in the Temple.md",
+    "Untitled 1.canvas",
+    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
+    "Statements - Versed/Questions.md",
+    "Statements - Versed/Jesus was only initially sent for the Jews.md",
+    "Traditions/Rites/Circumcision.md",
+    "Songs and Poems/Blessing of Simeon.md",
+    "Traditions/Rites",
+    "Songs and Poems/Mary's Song.md",
     "Objects/Buildings",
     "Traditions/Days/The Passover.md",
     "Traditions/Days",
     "Books/Bible/New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
     "Books/Bible/New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
-    "Events - Versed/1001. Massacre of Bethlehem's Babies.md",
-    "Events - Versed/1000. Birth of Jesus.md",
-    "Events - Versed/999. Birth of John.md",
     "Characters - Versed/Mary.md",
-    "Songs and Poems/Zechariah's Praise.md",
-    "Books/Rules.md",
-    "Statements - Versed/Jesus was only initially sent for the Jews.md",
-    "Statements - Versed/Questions.md",
-    "Statements - Versed/Targets.md",
-    "Characters - Versed/Abihud.md",
-    "Etc/Insights.md",
-    "Characters - Versed/Aaron . Harun.md",
-    "Titles/Immanuel.md",
-    "Characters - Versed/Herod.md",
-    "Titles/King of Judaea.md",
-    "Characters - Versed/Archelaus.md",
-    "Places/Egypt.md",
-    "Objects/Items/Gold.md",
-    "Objects/Items/Frankincense.md",
     "Objects/Items",
     "Titles",
     "Objects/Nature",
     "Objects",
-    "Statements - Versed",
-    "Songs and Poems",
-    "Traditions",
-    "Events - Versed",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]

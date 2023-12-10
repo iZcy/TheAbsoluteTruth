@@ -1,0 +1,1 @@
+Act of removing the skin covering the tip of the penis. Usually done to the 8th days old baby and the same day the baby will be named.
