@@ -11,12 +11,14 @@
             "id": "25407ec8ef2d1568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Letters/L1005. Opening of John.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Diagrams/Jesus' Genealogy.canvas",
+                "viewState": {
+                  "x": 927.2639041279268,
+                  "y": -17114.228115481455,
+                  "zoom": -0.19254993463380082
+                }
               }
             }
           }
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Letters/L1005. Opening of John.md",
+                "file": "Diagrams/Jesus' Genealogy.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Letters/L1005. Opening of John.md",
+                "file": "Diagrams/Jesus' Genealogy.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Letters/L1005. Opening of John.md"
+                "file": "Diagrams/Jesus' Genealogy.canvas"
               }
             }
           }
@@ -149,8 +151,8 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Letters/L1000. Opening of Luke.md",
     "Letters/L1005. Opening of John.md",
+    "Letters/L1000. Opening of Luke.md",
     "Books/2. New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
     "Books/2. New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
     "Books/2. New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
