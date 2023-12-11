@@ -1,0 +1,1 @@
+Origin: [[Bethsaida]] (John 1)

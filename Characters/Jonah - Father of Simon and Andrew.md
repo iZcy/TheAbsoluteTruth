@@ -1,0 +1,1 @@
+Children: [[Simon, Peter - Disciple of Jesus]] and [[Andrew - Disciple of Jesus]]

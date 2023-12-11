@@ -1,0 +1,1 @@
+Translated as stone (petra - peter) in Greek.

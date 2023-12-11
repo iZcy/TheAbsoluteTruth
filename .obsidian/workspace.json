@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 200
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md"
+                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Titles/Son of Man.md",
+    "Characters/Jesus Christ.md",
     "Events - Versed/1025. Jesus Returned, The First Disciples.md",
-    "Characters/Zebedee.md",
+    "Community/The Angels.md",
+    "Titles/King of Israel.md",
+    "Characters/Philip.md",
+    "Community/Prophets.md",
+    "Characters/Moses.md",
+    "Characters/Nathanael.md",
+    "Characters/Andrew - Disciple of Jesus.md",
     "Characters/James - Disciple of Jesus.md",
+    "Characters/Simon, Peter - Disciple of Jesus.md",
+    "Characters/Phillip - Disciple of Jesus.md",
+    "Places/City/Bethsaida.md",
+    "Titles/Cephas.md",
+    "Characters/Jonah - Father of Simon and Andrew.md",
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Characters/Zebedee.md",
     "Characters/John - Disciple of Jesus.md",
     "Community/Disciples of Jesus.md",
-    "Characters/Simon, Peter - Disciple of Jesus.md",
-    "Characters/Andrew - Disciple of Jesus.md",
     "Places/City/Capernaum.md",
     "Characters/Zebulon - Son of Israel.md",
     "Characters/Naphtali - Son of Israel.md",
     "Community/Syrian.md",
     "Characters/Naaman.md",
     "Community/Lepers.md",
-    "Places/City/Zarepath, Sidon.md",
-    "Characters/Elias . Elijah.md",
-    "Characters/Elisha . Eliseus.md",
-    "Objects/Buildings/Synagogue.md",
-    "Traditions/Days/The Sabbath.md",
-    "Events - Versed/1020. The Temptation of Jesus.md",
-    "Events - Versed/1015. The Baptism of Jesus.md",
-    "Statements - Versed/Questions.md",
-    "Characters/Jesus Christ.md",
-    "Titles/Lamb of God.md",
-    "Events - Versed/1000. Birth of Jesus.md",
-    "Events - Versed/1005. Massacre of Bethlehem's Babies.md",
-    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
     "Objects/Buildings",
     "Diagrams/Jesus' Genealogy.canvas",
     "Letters",
