@@ -11,12 +11,9 @@
             "id": "25407ec8ef2d1568",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Extra Files/ChronologyOfTheFourGospels.pdf"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
+                "file": "Extra Files/ChronologyOfTheFourGospels.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md",
+                "file": "Extra Files/ChronologyOfTheFourGospels.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1025. Jesus Returned, The First Disciples.md"
+                "file": "Extra Files/ChronologyOfTheFourGospels.pdf"
               }
             }
           }
@@ -149,15 +146,18 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Characters/Nathanael - Disciple of Jesus.md",
+    "Extra Files/ChronologyOfTheFourGospels.pdf",
+    "Extra Files",
+    "Events - Versed/1000. Birth of Jesus.md",
+    "Events - Versed/1025. Jesus Returned, The First Disciples.md",
     "Titles/Son of Man.md",
     "Characters/Jesus Christ.md",
-    "Events - Versed/1025. Jesus Returned, The First Disciples.md",
     "Community/The Angels.md",
     "Titles/King of Israel.md",
     "Characters/Philip.md",
     "Community/Prophets.md",
     "Characters/Moses.md",
-    "Characters/Nathanael.md",
     "Characters/Andrew - Disciple of Jesus.md",
     "Characters/James - Disciple of Jesus.md",
     "Characters/Simon, Peter - Disciple of Jesus.md",
@@ -173,8 +173,6 @@
     "Characters/Zebulon - Son of Israel.md",
     "Characters/Naphtali - Son of Israel.md",
     "Community/Syrian.md",
-    "Characters/Naaman.md",
-    "Community/Lepers.md",
     "Objects/Buildings",
     "Diagrams/Jesus' Genealogy.canvas",
     "Letters",
@@ -186,8 +184,6 @@
     "Places/City",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Traditions/Rites",
-    "Objects/Buildings",
     "Books/Untitled.canvas"
   ]
 }
