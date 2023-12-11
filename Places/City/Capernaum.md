@@ -1,0 +1,1 @@
+A place upon the sea cost, in the borders of [[Zebulon - Son of Israel]] and [[Naphtali - Son of Israel]] (Matthew 4).

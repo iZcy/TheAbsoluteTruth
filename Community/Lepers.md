@@ -1,0 +1,1 @@
+(pengidap penyakit kusta)
