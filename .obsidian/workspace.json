@@ -11,9 +11,12 @@
             "id": "25407ec8ef2d1568",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Extra Files/ChronologyOfTheFourGospels.pdf"
+                "file": "Events - Versed/1030. Marriage in.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 311.5
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra Files/ChronologyOfTheFourGospels.pdf",
+                "file": "Events - Versed/1030. Marriage in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra Files/ChronologyOfTheFourGospels.pdf",
+                "file": "Events - Versed/1030. Marriage in.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra Files/ChronologyOfTheFourGospels.pdf"
+                "file": "Events - Versed/1030. Marriage in.md"
               }
             }
           }
@@ -146,11 +149,14 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Characters/Nathanael - Disciple of Jesus.md",
-    "Extra Files/ChronologyOfTheFourGospels.pdf",
-    "Extra Files",
-    "Events - Versed/1000. Birth of Jesus.md",
     "Events - Versed/1025. Jesus Returned, The First Disciples.md",
+    "Events - Versed/1030. Marriage in.md",
+    "Events - Versed/1020. The Temptation of Jesus.md",
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Events - Versed/1000. Birth of Jesus.md",
+    "Extra Files/ChronologyOfTheFourGospels.pdf",
+    "Characters/Nathanael - Disciple of Jesus.md",
+    "Extra Files",
     "Titles/Son of Man.md",
     "Characters/Jesus Christ.md",
     "Community/The Angels.md",
@@ -165,14 +171,12 @@
     "Places/City/Bethsaida.md",
     "Titles/Cephas.md",
     "Characters/Jonah - Father of Simon and Andrew.md",
-    "Events - Versed/1015. The Baptism of Jesus.md",
     "Characters/Zebedee.md",
     "Characters/John - Disciple of Jesus.md",
     "Community/Disciples of Jesus.md",
     "Places/City/Capernaum.md",
     "Characters/Zebulon - Son of Israel.md",
     "Characters/Naphtali - Son of Israel.md",
-    "Community/Syrian.md",
     "Objects/Buildings",
     "Diagrams/Jesus' Genealogy.canvas",
     "Letters",
