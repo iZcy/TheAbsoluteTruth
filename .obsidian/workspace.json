@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1020. The Temptation of Jesus.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1020. The Temptation of Jesus.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1020. The Temptation of Jesus.md",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1020. The Temptation of Jesus.md"
+                "file": "Events - Versed/1015. The Baptism of Jesus.md"
               }
             }
           }
@@ -149,33 +149,34 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Characters/Satan . The Devil.md",
+    "Characters/Jesus Christ.md",
+    "Titles/Lamb of God.md",
     "Events - Versed/1020. The Temptation of Jesus.md",
+    "Events - Versed/1000. Birth of Jesus.md",
+    "Events - Versed/1005. Massacre of Bethlehem's Babies.md",
+    "Events - Versed/1010. 12 Years Old Jesus in the Temple.md",
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Objects/Buildings/Synagogoues.md",
+    "Letters/L1005. Opening of John.md",
+    "Statements - Versed/Questions.md",
+    "Objects/Buildings/The Temple.md",
+    "Objects/Buildings",
+    "Characters/Satan . The Devil.md",
     "Titles/Lord.md",
     "Characters/YHWH - GOD.md",
     "Titles/GOD.md",
     "Characters/Untitled.md",
-    "Statements - Versed/Questions.md",
-    "Events - Versed/1015. The Baptism of Jesus.md",
     "Traditions/Rites/Baptism.md",
     "Community/Israel.md",
-    "Titles/Lamb of God.md",
-    "Characters/Jesus Christ.md",
     "Places/City/Bethabara . Bethany.md",
     "Characters/The Prophet.md",
     "Community/Priests.md",
     "Community/Jews.md",
     "Community/Levites.md",
     "Characters/Levi - Son of Israel.md",
-    "Letters/L1005. Opening of John.md",
     "Events - Versed/0995. Birth of John.md",
     "Characters/John - The Baptist.md",
-    "Books/2. New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
     "Diagrams/Jesus' Genealogy.canvas",
-    "Letters/L1000. Opening of Luke.md",
-    "Books/2. New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
-    "Books/2. New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
-    "Books/2. New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
     "Letters",
     "Traditions/Teachings",
     "Community/Untitled",
@@ -187,7 +188,6 @@
     "Untitled 1.canvas",
     "Traditions/Rites",
     "Objects/Buildings",
-    "Traditions/Days",
     "Books/Untitled.canvas"
   ]
 }

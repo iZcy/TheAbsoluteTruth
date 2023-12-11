@@ -2,3 +2,4 @@
 2) Still (1) but different translations include Admin & Arni rather than just Ram
 3) Matthew 2 : 23 which revelation?
 4) Solve for John 1:1 in terms of unitarian
+5) The order of Jesus' trial is different from Matthew 4 - Luke 4
