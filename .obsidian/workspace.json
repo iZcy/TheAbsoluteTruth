@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1030. Marriage in.md",
+                "file": "Events - Versed/1030. Wedding at Cana.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 200
   },
   "right": {
     "id": "3895b4292816f6a8",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1030. Marriage in.md",
+                "file": "Events - Versed/1030. Wedding at Cana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1030. Marriage in.md",
+                "file": "Events - Versed/1030. Wedding at Cana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1030. Marriage in.md"
+                "file": "Events - Versed/1030. Wedding at Cana.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Places/City/Cana, Galilee.md",
+    "Events - Versed/1030. Wedding at Cana.md",
     "Events - Versed/1025. Jesus Returned, The First Disciples.md",
-    "Events - Versed/1030. Marriage in.md",
     "Events - Versed/1020. The Temptation of Jesus.md",
     "Events - Versed/1015. The Baptism of Jesus.md",
     "Events - Versed/1000. Birth of Jesus.md",
@@ -176,7 +177,6 @@
     "Community/Disciples of Jesus.md",
     "Places/City/Capernaum.md",
     "Characters/Zebulon - Son of Israel.md",
-    "Characters/Naphtali - Son of Israel.md",
     "Objects/Buildings",
     "Diagrams/Jesus' Genealogy.canvas",
     "Letters",
