@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Letters/L1005. Opening of John.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Letters/L1005. Opening of John.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "file": "Letters/L1005. Opening of John.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1015. The Baptism of Jesus.md"
+                "file": "Letters/L1005. Opening of John.md"
               }
             }
           }
@@ -149,12 +149,21 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Letters/L1000. Opening of Luke.md",
+    "Letters/L1005. Opening of John.md",
+    "Books/2. New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
+    "Books/2. New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
+    "Books/2. New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
+    "Books/2. New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
+    "Characters/Theophilus.md",
+    "Community/Abia Course.md",
+    "Letters",
+    "Events - Versed/1015. The Baptism of Jesus.md",
     "Titles/Tetrach.md",
     "Titles/King of Judaea.md",
     "Titles/King of Abilene.md",
     "Titles/King of Trachonitis.md",
     "Titles/King of Ituraea.md",
-    "Events - Versed/1015. The Baptism of Jesus.md",
     "Places/Province/Ituraea.md",
     "Places/Province/Trachonitis.md",
     "Places/Province/Abilene.md",
@@ -168,14 +177,6 @@
     "Characters/Herod (2nd).md",
     "Traditions/Teachings/Gospel . Injeel.md",
     "Traditions/Teachings",
-    "Traditions/Teachings.md",
-    "Places/Province/Galilee.md",
-    "Community/Soldiers.md",
-    "Community/Publicans.md",
-    "Characters/John - The Baptist.md",
-    "Characters/Caiaphas.md",
-    "Characters/Annas.md",
-    "Community/High Priests.md",
     "Community/Untitled",
     "Places/Kingdom",
     "Places/Nation",
@@ -186,7 +187,6 @@
     "Traditions/Rites",
     "Objects/Buildings",
     "Traditions/Days",
-    "Objects/Items",
     "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
