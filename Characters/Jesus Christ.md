@@ -6,6 +6,7 @@ Title:
 	[[King of the Throne of David]] (Luke 1)
 	[[King House of Jacob]] (Luke 1)
 	[[Son of God]] (Luke 1) (Mark 1)
+	[[Lamb of God]] (John 1)
 
 Divinely Father : [[YHWH - GOD]]
 Father (Non-biological): [[Joseph - Jacob's Son]] (Matthew 1)
