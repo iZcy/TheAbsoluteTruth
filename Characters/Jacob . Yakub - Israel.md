@@ -3,6 +3,6 @@ Mother:
 
 Children:
 1) Boys
-	[[Judah . Juda . Yehuda]] (Matthew 1) (Luke 3)
+	[[Judah - Son of Israel . Juda . Yehuda]] (Matthew 1) (Luke 3)
 2) Girls
 	

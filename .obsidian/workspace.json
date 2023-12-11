@@ -11,14 +11,12 @@
             "id": "25407ec8ef2d1568",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
-                "viewState": {
-                  "x": 927.2639041279268,
-                  "y": -17114.228115481455,
-                  "zoom": -0.19254993463380082
-                }
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas",
+                "file": "Events - Versed/1015. The Baptism of Jesus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diagrams/Jesus' Genealogy.canvas"
+                "file": "Events - Versed/1015. The Baptism of Jesus.md"
               }
             }
           }
@@ -151,16 +149,23 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Community/Priests.md",
+    "Events - Versed/1015. The Baptism of Jesus.md",
+    "Community/Jews.md",
+    "Community/Levites.md",
+    "Characters/Levi - Son of Israel.md",
     "Letters/L1005. Opening of John.md",
-    "Letters/L1000. Opening of Luke.md",
+    "Events - Versed/0995. Birth of John.md",
+    "Characters/John - The Baptist.md",
     "Books/2. New Testaments/1. Gospel . Injeel/4. John . Yohanes.md",
+    "Diagrams/Jesus' Genealogy.canvas",
+    "Letters/L1000. Opening of Luke.md",
     "Books/2. New Testaments/1. Gospel . Injeel/3. Luke . Lukas.md",
     "Books/2. New Testaments/1. Gospel . Injeel/2. Mark . Markus.md",
     "Books/2. New Testaments/1. Gospel . Injeel/1. Matthew . Matius.md",
     "Characters/Theophilus.md",
     "Community/Abia Course.md",
     "Letters",
-    "Events - Versed/1015. The Baptism of Jesus.md",
     "Titles/Tetrach.md",
     "Titles/King of Judaea.md",
     "Titles/King of Abilene.md",
@@ -172,12 +177,6 @@
     "Events - Versed/1020. The Temptation of Jesus.md",
     "Characters/Tiberius - Caesar.md",
     "Events - Versed/1000. Birth of Jesus.md",
-    "Characters/Augustus - Caesar.md",
-    "Titles/Roman Emperor.md",
-    "Characters/Herodias.md",
-    "Characters/Philip.md",
-    "Characters/Herod (2nd).md",
-    "Traditions/Teachings/Gospel . Injeel.md",
     "Traditions/Teachings",
     "Community/Untitled",
     "Places/Kingdom",
@@ -189,7 +188,6 @@
     "Traditions/Rites",
     "Objects/Buildings",
     "Traditions/Days",
-    "Diagrams/Jesus' Genealogy.canvas",
     "Books/Untitled.canvas"
   ]
 }

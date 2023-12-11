@@ -1,4 +1,4 @@
-Father: [[Judah . Juda . Yehuda]] (Matthew 1) (Luke 3)
+Father: [[Judah - Son of Israel . Juda . Yehuda]] (Matthew 1) (Luke 3)
 Mother: [[Tamar]] (Matthew 1)
 
 Children:
