@@ -1,0 +1,1 @@
+Is it someone else not mentioned in the Bible?
