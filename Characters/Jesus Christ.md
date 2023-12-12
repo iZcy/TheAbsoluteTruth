@@ -9,6 +9,7 @@ Title:
 	[[Lamb of God]] (John 1)
 	[[King of Israel]] (John 1)
 	[[Son of Man]] (John 1)
+	[[The Holy One of God]] (Mark 1)
 
 Divinely Father : [[YHWH - GOD]]
 Father (Non-biological): [[Joseph - Jacob's Son]] (Matthew 1)
