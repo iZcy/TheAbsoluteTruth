@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events - Versed/1030. Wedding at Cana.md",
+                "file": "Events - Versed/1035. Jesus in Synagogues & Healing People.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events - Versed/1030. Wedding at Cana.md",
+                "file": "Events - Versed/1035. Jesus in Synagogues & Healing People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events - Versed/1030. Wedding at Cana.md",
+                "file": "Events - Versed/1035. Jesus in Synagogues & Healing People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Events - Versed/1030. Wedding at Cana.md"
+                "file": "Events - Versed/1035. Jesus in Synagogues & Healing People.md"
               }
             }
           }
@@ -149,9 +149,14 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
-    "Places/City/Cana, Galilee.md",
+    "Places/Province/Decapolis.md",
+    "Events - Versed/1035. Jesus in Synagogues & Healing People.md",
+    "Community/Syrian.md",
+    "Places/Nation/Syria.md",
+    "Places/Kingdom/Kingdom of God.md",
     "Events - Versed/1030. Wedding at Cana.md",
     "Events - Versed/1025. Jesus Returned, The First Disciples.md",
+    "Places/City/Cana, Galilee.md",
     "Events - Versed/1020. The Temptation of Jesus.md",
     "Events - Versed/1015. The Baptism of Jesus.md",
     "Events - Versed/1000. Birth of Jesus.md",
@@ -172,11 +177,6 @@
     "Places/City/Bethsaida.md",
     "Titles/Cephas.md",
     "Characters/Jonah - Father of Simon and Andrew.md",
-    "Characters/Zebedee.md",
-    "Characters/John - Disciple of Jesus.md",
-    "Community/Disciples of Jesus.md",
-    "Places/City/Capernaum.md",
-    "Characters/Zebulon - Son of Israel.md",
     "Objects/Buildings",
     "Diagrams/Jesus' Genealogy.canvas",
     "Letters",
