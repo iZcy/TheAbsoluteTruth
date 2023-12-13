@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Jesus Christ.md",
+                "file": "Statements - Versed/Questions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Jesus Christ.md",
+                "file": "Statements - Versed/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Jesus Christ.md",
+                "file": "Statements - Versed/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Jesus Christ.md"
+                "file": "Statements - Versed/Questions.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "25407ec8ef2d1568",
   "lastOpenFiles": [
+    "Characters/Jesus Christ.md",
     "Events - Versed/1000. Birth of Jesus.md",
     "Events - Versed/1040. Sermon on the Mount.md",
     "Statements - Versed/Questions.md",
@@ -157,7 +158,6 @@
     "Statements - Versed/Jesus' Teachings.md",
     "Events - Versed/1025. Jesus Returned, The First Disciples.md",
     "Titles/The Holy One of God.md",
-    "Characters/Jesus Christ.md",
     "Places/Province/Decapolis.md",
     "Community/Syrian.md",
     "Places/Nation/Syria.md",
